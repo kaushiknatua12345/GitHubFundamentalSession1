@@ -1,50 +1,32 @@
-\# GitHub Fundamentals
+# GitHub Fundamentals
 
-
-
-\*\*INTRODUCTION\*\*  
+## Introduction
 
 In today’s organizations, GitHub is no longer used only by developers. Whether you are reviewing documentation, tracking project progress, approving changes, collaborating with engineers, or managing releases, understanding GitHub helps you work more effectively with technical teams.
 
+## Audience
 
+- Shared Services Members
 
-\*\*Audiences:\*\*  
+## Software and License Requirements
 
-Shared Services Members  
+Before starting, make sure you have access to the following:
 
+- GitHub Enterprise
+- VS Code
+- Git (Optional)
 
+## Agenda
 
-\*\*Software and License Requirement:\*\*
+In this session, we will work together through a hands-on demo to gain a basic understanding of GitHub.
 
-\- GitHub Enterprise
-
-\- VS Code
-
-\- Git (Optional)
-
-
-
-\*\*AGENDA\*\*  
-
-In today’s session, we will work together with hands on demo to gain basic understanding of GitHub.
-
-
-
-\*\*LEARNING OBJECTIVES\*\*  
+## Learning Objectives
 
 By the end of this session, participants will be able to:
 
-
-
-1\. Explain what GitHub is in simple business language.
-
-2\. Explain the difference between Git and GitHub.
-
-3\. Navigate a GitHub repository.
-
-4\. Understand files, commits, branches, pull requests, and reviews.
-
-5\. Make a simple documentation change using GitHub.
-
-6\. Understand basic Git commands used by technical teams.
-
+1. Explain what GitHub is in simple business language.
+2. Explain the difference between Git and GitHub.
+3. Navigate a GitHub repository.
+4. Understand files, commits, branches, pull requests, and reviews.
+5. Make a simple documentation change using GitHub.
+6. Understand basic Git commands used by technical teams.
